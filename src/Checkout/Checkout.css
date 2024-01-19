@@ -1,0 +1,23 @@
+.checkout_ad{
+    width:100%;
+    
+    margin-bottom:10px;    
+    }
+    .checkout{
+        display: flex;
+        padding:20px;
+       
+        height:max-content;
+        min-width: 760px;
+    }
+    .checkout_title{
+        margin-right:10px;
+        padding:10px;
+        border-bottom:1px solid lightgray;
+    }
+   .checkout_basket{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   }
+
